@@ -18,5 +18,8 @@
   "homepage": "https://github.com/shemliyivan/backend-course-2025-4#readme",
   "dependencies": {
     "commander": "^14.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
   }
 }
